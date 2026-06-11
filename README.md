@@ -24,5 +24,6 @@ The Attendance Management System is a Python-based application used to manage st
 python main.py
 
 ## Author
-Veena Madhuri Putta
-B.Tech CSM
+Name : Veena Madhuri Putta  
+Department : B.Tech CSM   
+Course : Python Programming
